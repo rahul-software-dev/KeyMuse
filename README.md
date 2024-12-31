@@ -1,1 +1,1 @@
-# KeyMuse
+KeyMuse is an interactive music-playing application that transforms your keyboard into a musical instrument. With its simple UI and fast response time, KeyMuse is perfect for musicians, hobbyists, and anyone curious about creating music on the go. The app generates sounds programmatically, eliminating the need for pre-recorded sound files and offering a seamless experience.# KeyMuse
